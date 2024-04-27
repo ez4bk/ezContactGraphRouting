@@ -1,7 +1,7 @@
 # ezContactGraphRouting
-## Project Description
 A contact graph routing algorithm using minimum priority queue and Dijkstra.
 
+## Project Description
 In a network with mobile nodes, the vertices of a graph keep moving. Links are established or
 abolished over time. A full path from a source node S to a destination node D may never exist,
 but it may still be possible to go from S to D in multiple “hops” with possible delay after each
